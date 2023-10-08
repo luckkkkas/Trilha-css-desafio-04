@@ -47,7 +47,7 @@ header p {
     
 }
 
-@media screen and (min-width: 280px) and (max-width:1200px){
+@media screen and (min-width: 280px) and (max-width:900px){
     
     header{
     width: 100vw;
@@ -162,7 +162,7 @@ img{
     max-width: 100%;
 }
 
-@media screen and (min-width: 280px) and (max-width:1200px){
+@media screen and (min-width: 280px) and (max-width:900px){
     #container{
        width: 100vw;
        text-align: left;
